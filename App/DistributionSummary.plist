@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IPTV App.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>5</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>89974226D3063F58A7021D9379BE4CE1598757CC</string>
+				<key>dateExpires</key>
+				<string>04/04/2025</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9TMMFKS9DW.me.pedrocordeiro.IPTVapp</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array>
+					<string>iCloud.me.pedrocordeiro.IPTVapp.cloudKit</string>
+				</array>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudKit</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9TMMFKS9DW</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>IPTV App.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5cbbcec5-df42-4bb4-bd22-c13e8ddb6fd0</string>
+				<key>dateExpires</key>
+				<string>04/04/2025</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: me.pedrocordeiro.IPTVapp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9TMMFKS9DW</string>
+				<key>name</key>
+				<string>MAR PIRES BRANCO DUARTE SILVA</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
