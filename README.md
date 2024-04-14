@@ -51,7 +51,7 @@ xhe
 
 ## Privacy Policy
 
-Your playlists' data is stored in your iCloud storage and is not accessible to the developer. Your favorites' data is stored on-device and is not accessible to the developer. Your customization settings are stored on-device and are not accessible to the developer. There is no privacy policy agreements the user should be worried about.
+Your playlists' data is stored in your iCloud storage and is not accessible to the developer. Your favorites' data is stored on-device and is not accessible to the developer. Your customization settings are stored on-device and are not accessible to the developer. There are no privacy policy agreements the user should be worried about.
 
 ## Contact
 
