@@ -49,6 +49,10 @@ wav,
 webvtt,
 xhe
 
+## Privacy Policy
+
+Your playlists' data is stored in your iCloud storage and is not accessible to the developer. Your favorites' data is stored on-device and is not accessible to the developer. Your customization settings are stored on-device and are not accessible to the developer. There is no privacy policy agreements the user should be worried about.
+
 ## Contact
 
 If you have issues, don't hesitate to contact me at marianaduartesilva425@gmail.com. I will do my best to answer your enquires and will add them to this page if appropriate.
