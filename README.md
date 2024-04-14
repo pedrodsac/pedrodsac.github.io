@@ -48,3 +48,7 @@ w64,
 wav,
 webvtt,
 xhe
+
+## Contact
+
+If you have issues, don't hesitate to contact me at marianaduartesilva425@gmail.com. I will do my best to answer your enquires and will add them to this page if appropriate.
